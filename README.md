@@ -5,6 +5,6 @@ We can detect wheather a news is false or true by using tools like scikit-learn,
 
 
 # Installation
-Clone the git Repository.
-Run the Command pip install -r requirement.txt
-Execute the Python code
+1.Clone the git Repository.
+2.Run the Command pip install -r requirement.txt
+3.Execute the Python code
